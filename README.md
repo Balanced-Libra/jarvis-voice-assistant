@@ -1,4 +1,4 @@
-# Jarvis Voice Assistant
+# Jarvis Home Assistant
 
 A fully local, "Jarvis-style" voice assistant for macOS with a modern PyQt6 GUI. All processing happens on your machine - no cloud services required.
 
